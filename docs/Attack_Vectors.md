@@ -3,7 +3,7 @@
 ##TeamViewer Network Segmentation & APT29 Attack
 -**Vector: Exploitation of remote access tools
 -**Technique: Lateral movement within networks
-
+                                               
 ##Ransomware Negotiation Tips for CISOs
 -**Vector: Ransomware payloads
 -**Technique: Strategic negotiation and response
