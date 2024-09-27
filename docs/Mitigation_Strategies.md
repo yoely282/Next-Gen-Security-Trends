@@ -11,7 +11,7 @@
 ##Memory-Unsafe Code in Open Source Projects
 -**Strategy: Use memory-safe languages (e.g., Rust)
 _**Action: Conduct regular code reviews and vulnerability assessments
-
+                                                                                      
 ##Student Loan Breach Exposes 2.5M Records
 -**Strategy: Enhance database security protocols
 -**Action: Regularly audit and update security measures
