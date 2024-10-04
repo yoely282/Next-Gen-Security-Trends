@@ -6,7 +6,7 @@
 * Attack_Vectors.md: Examination of attack vectors and techniques used by threat actors.
 * Mitigation_Strategies.md: Recommended strategies and actions to mitigate identified threats.
 
-## Overview
+## Overview                                        
 ## Key Findings
 
 * TeamViewer Network Segmentation & APT29 Attack: Exploitation of weak network segmentation, enabling unauthorized access.
