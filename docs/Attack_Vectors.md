@@ -7,7 +7,7 @@
 ##Ransomware Negotiation Tips for CISOs
 -**Vector: Ransomware payloads
 -**Technique: Strategic negotiation and response
-                                   
+                                                                          
 ##Memory-Unsafe Code in Open Source Projects
 -**Vector: Vulnerabilities in C and C++ code
 -**Technique: Buffer overflows and memory exploitation
