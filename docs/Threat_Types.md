@@ -4,7 +4,7 @@
 -**Threat: Exploitation of weak network segmentation
 -**Group: APT29
 -**Impact: Unauthorized access to sensitive systems
-
+                                                          
 ##Ransomware Negotiation Tips for CISOs
 -**Threat: Ransomware attacks
 -**Focus: Guidance on handling and negotiating ransomware incidents
