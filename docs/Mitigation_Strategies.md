@@ -3,7 +3,7 @@
 ##TeamViewer Network Segmentation & APT29 Attack
 **Strategy: Implement robust network segmentation
 **Action: Regularly update and monitor remote access tools
-
+                                                          
 ##Ransomware Negotiation Tips for CISOs
 -**Strategy: Develop and practice ransomware response plans
 -**Action: Engage with legal, insurance, and negotiation experts
