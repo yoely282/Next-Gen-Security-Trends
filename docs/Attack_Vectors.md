@@ -7,7 +7,7 @@
 ##Ransomware Negotiation Tips for CISOs
 -**Vector: Ransomware payloads
 -**Technique: Strategic negotiation and response
-                                                                                                                                    
+                                                                                                                                                                                                                                                             
 ##Memory-Unsafe Code in Open Source Projects
 -**Vector: Vulnerabilities in C and C++ code
 -**Technique: Buffer overflows and memory exploitation
@@ -27,3 +27,4 @@
 ##DarkGate Remote Template Injection
 -**Vector: Phishing emails with malicious attachments
 -**Technique: Remote template injection
+                                                                                                                                                                                           
