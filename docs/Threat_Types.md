@@ -29,3 +29,12 @@
 -**Threat: Malware infection
 -**Vector: Remote template injection in Microsoft Office files
 
+### Vishing (Voice Phishing) - Case: UNC6040 Salesforce Scam
+
+- **Threat Type**: Social Engineering
+- **Method**: Impersonation via phone calls (vishing)
+- **Actors**: UNC6040 (tracked by Google Threat Intelligence)
+- **Objective**: Trick employees into authorizing malicious apps in Salesforce
+- **Targets**: English-speaking employees at multinational organizations
+
+_Vishing is a form of social engineering that uses phone calls to manipulate victims into compromising security or sharing sensitive information._
